@@ -1,0 +1,41 @@
+# General
+domain: oroques.dev
+url: https://oroques.dev
+title: Olivier Roques
+author: Olivier Roques
+exclude: [README.md]
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+# Theme
+remote_theme: BDHU/minimalist
+favicon: true
+logo: /assets/imgs/profile.webp
+sidebar:
+- name: olivier at oroques.dev
+  icon: <i class="fa-solid fa-envelope"></i>
+  link: "mailto:"
+- name: GitHub
+  icon: <i class="fa-brands fa-github"></i>
+  link: https://github.com/ojroques
+- name: LinkedIn
+  icon: <i class="fa-brands fa-linkedin"></i>
+  link: https://www.linkedin.com/in/olivier-roques/
