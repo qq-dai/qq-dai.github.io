@@ -14,6 +14,16 @@ My research interests include graph data management and mining, social network a
 1. **Qiangqiang Dai**, Rong-Hua Li, Guoren Wang, Rui Mao, Zhiwei Zhang, Ye Yuan, "Core Decomposition on Uncertain Graphs Revisited", IEEE Trans. Knowl. Data Eng. 35(1): 196-210, 2023.
 
 1. **Qiangqiang Dai**, Rong-Hua Li, Hongchao Qin, Meihao Liao, Guoren Wang, "Scaling Up Maximal k-plex Enumeration", CIKM 2022: 345-354 
+
+2. Zijian Chen, Rong-Hua Li, Hongchao Qin, Huanzhong Duan, Yanxiong Lu, **Qiangqiang Dai**, Guoren Wang: Filtration-Enhanced Graph Transformation. IJCAI 2022: 1987-1993
+3. Meihao Liao, Rong-Hua Li, **Qiangqiang Dai**, Guoren Wang: Efficient Personalized PageRank Computation: A Spanning Forests Sampling Based Approach. SIGMOD Conference 2022: 2048-2061 
+4. Xiaowei Ye, Rong-Hua Li, **Qiangqiang Dai**, Hongzhi Chen, Guoren Wang: Lightning Fast and Space Efficient k-clique Counting. WWW 2022: 1191-1202
+5. Rong-Hua Li, **Qiangqiang Dai**, Lu Qin, Guoren Wang, Xiaokui Xiao, Jeffrey Xu Yu, Shaojie Qiao: Signed Clique Search in Signed Networks: Concepts and Algorithms. IEEE Trans. Knowl. Data Eng. 33(2): 710-727 (2021)
+6. **Qiangqiang Dai**, Rong-Hua Li, Lu Qin, Guoren Wang, Weihua Yang, Zhiwei Zhang, Ye Yuan: Scaling Up Distance-generalized Core Decomposition. CIKM 2021: 312-321
+7. Rong-Hua Li, **Qiangqiang Dai**, Guoren Wang, Zhong Ming, Lu Qin, Jeffrey Xu Yu: Improved Algorithms for Maximal Clique Search in Uncertain Networks. ICDE 2019: 1178-1189
+8. Rong-Hua Li, **Qiangqiang Dai**, Lu Qin, Guoren Wang, Xiaokui Xiao, Jeffrey Xu Yu, Shaojie Qiao: Efficient Signed Clique Search in Signed Networks. ICDE 2018: 245-256 
+9. Rong-Hua Li, Jiao Su, Lu Qin, Jeffrey Xu Yu, **Qiangqiang Dai**: Persistent Community Search in Temporal Networks. ICDE 2018: 797-808
+
  
 
 <!--
