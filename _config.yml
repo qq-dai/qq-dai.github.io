@@ -1,6 +1,6 @@
 # General
-domain: oroques.dev
-url: https://oroques.dev
+# domain: oroques.dev
+url: https://qq-dai.github.io/
 title: Olivier Roques
 author: Olivier Roques
 exclude: [README.md]
@@ -35,7 +35,7 @@ sidebar:
   link: "mailto:"
 - name: GitHub
   icon: <i class="fa-brands fa-github"></i>
-  link: https://github.com/ojroques
+  link: https://github.com/qq-dai
 - name: LinkedIn
   icon: <i class="fa-brands fa-linkedin"></i>
   link: https://www.linkedin.com/in/olivier-roques/
