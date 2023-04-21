@@ -2,10 +2,7 @@
 # domain: oroques.dev
 url: https://qq-dai.github.io
 title: Qiangqiang Dai
-author: 
-  name             : "Your Sidebar Name"
-  avatar           : "/assets/imgs/profile.png"
-# author: Qiangqiang Dai
+author: Qiangqiang Dai
 exclude: [README.md]
 
 # Defaults
@@ -32,7 +29,7 @@ plugins:
 remote_theme: BDHU/minimalist
 favicon: true
 #logo: /assets/imgs/profile.webp
-# logo: /assets/imgs/profile.png
+logo: /assets/imgs/profile.png
 sidebar:
 - name: Email
   icon: <i class="fa-solid fa-envelope"></i>
