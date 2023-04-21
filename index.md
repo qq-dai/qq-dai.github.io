@@ -3,7 +3,7 @@
 
 # About Me
 
-I'm currently a DevOps Engineer at [Scaleway](https://www.scaleway.com) in
+/** I'm currently a DevOps Engineer at [Scaleway](https://www.scaleway.com) in
 Paris, France since March 2023.
 
 Before that, I worked at Cisco from 2019 to 2023 as a Network Engineer on
@@ -19,3 +19,4 @@ Engineering) in 2020.
 * [Resume]({% link assets/docs/resume.en.pdf %})
 * [Projects]({% link projects.md %})
 * [Lecture Notes]({% link lecture-notes.md %})
+**/
