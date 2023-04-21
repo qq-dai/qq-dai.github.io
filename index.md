@@ -3,13 +3,15 @@
 
 # About Me
 
-I'm a PhD student at the School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. Ronghua Li. 
+I'm a PhD student at the School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Ronghua Li](https://ronghuali.github.io). 
 
 My research interests include graph data management and mining, social network analysis, and graph computation systems, etc.
 
 # Publications
 
-1. Qiangqiang Dai, Rong-Hua Li, Guoren Wang, Rui Mao, Zhiwei Zhang, Ye Yuan. "Core Decomposition on Uncertain Graphs Revisited" IEEE Trans. Knowl. Data Eng. 35(1): 196-210 (2023)
+-1. **Qiangqiang Dai**, Rong-Hua Li, Meihao Liao, Guoren Wang, "Maximal Defective Clique Enumeration", Proceedings of the 49th ACM SIGMOD International Conference on Management of Data (SIGMOD), 2023.
+
+-2. **Qiangqiang Dai**, Rong-Hua Li, Guoren Wang, Rui Mao, Zhiwei Zhang, Ye Yuan, "Core Decomposition on Uncertain Graphs Revisited", IEEE Trans. Knowl. Data Eng. 35(1): 196-210, 2023.
 
 <!--
 I'm currently a DevOps Engineer at [Scaleway](https://www.scaleway.com) in
