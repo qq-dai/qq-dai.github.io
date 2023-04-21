@@ -31,7 +31,7 @@ favicon: true
 #logo: /assets/imgs/profile.webp
 logo: /assets/imgs/profile.png
 sidebar:
-- name: Qiangqiang Dai
+- name: Email
   icon: <i class="fa-solid fa-envelope"></i>
   link: "mailto:qq_dai@126.com"
 - name: GitHub
