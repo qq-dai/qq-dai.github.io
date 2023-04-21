@@ -1,8 +1,8 @@
 # General
 # domain: oroques.dev
 url: https://qq-dai.github.io/
-title: Olivier Roques
-author: Olivier Roques
+title: Qiangqiang Dai's Homepage
+author: Qiangqiang Dai
 exclude: [README.md]
 
 # Defaults
@@ -30,7 +30,7 @@ remote_theme: BDHU/minimalist
 favicon: true
 logo: /assets/imgs/profile.webp
 sidebar:
-- name: olivier at oroques.dev
+- name: Qiangqiang Dai
   icon: <i class="fa-solid fa-envelope"></i>
   link: "mailto:"
 - name: GitHub
