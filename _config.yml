@@ -1,7 +1,7 @@
 # General
 # domain: oroques.dev
 url: https://qq-dai.github.io/
-title: Qiangqiang Dai's Homepage
+title: Qiangqiang Dai
 author: Qiangqiang Dai
 exclude: [README.md]
 
@@ -28,11 +28,12 @@ plugins:
 # Theme
 remote_theme: BDHU/minimalist
 favicon: true
-logo: /assets/imgs/profile.webp
+#logo: /assets/imgs/profile.webp
+logo: /assets/imgs/
 sidebar:
 - name: Qiangqiang Dai
   icon: <i class="fa-solid fa-envelope"></i>
-  link: "mailto:"
+  link: "mailto:qq_dai@126.com"
 - name: GitHub
   icon: <i class="fa-brands fa-github"></i>
   link: https://github.com/qq-dai
