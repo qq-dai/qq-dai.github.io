@@ -2,7 +2,10 @@
 # domain: oroques.dev
 url: https://qq-dai.github.io
 title: Qiangqiang Dai
-author: Qiangqiang Dai
+author: 
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+# author: Qiangqiang Dai
 exclude: [README.md]
 
 # Defaults
