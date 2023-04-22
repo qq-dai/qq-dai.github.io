@@ -1,10 +1,10 @@
 # General
-# domain: oroques.dev
+# domain: example.com
 url: https://qq-dai.github.io
 title: Qiangqiang Dai
 logo: /assets/imgs/profile.png
 email: qiangd66@gmail.com
-description: PHD student.
+description: 
 exclude: [README.md]
 
 # Defaults
@@ -40,9 +40,6 @@ sidebar:
   link: https://scholar.google.com/citations?user=Z_ap6OUAAAAJ
 - name: GitHub
   icon: <i class="fa-brands fa-github"></i>
-  link: https://github.com/qq-dai
-- name: DBLP
-  icon: <i class="fa-brands fa-dblp"></i>
   link: https://github.com/qq-dai
 # - name: LinkedIn
 #  icon: <i class="fa-brands fa-linkedin"></i>
