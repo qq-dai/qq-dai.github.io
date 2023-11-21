@@ -4,9 +4,9 @@ layout: default
  
 # About Me
 
-I'm a PhD student at the School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Ronghua Li](https://ronghuali.github.io). 
+I'm a postdoc at the School of Computer Science and Technology, Beijing Institute of Technology. 
 
-My research interests include graph data management and mining, social network analysis, and graph computation systems, etc.
+My research interests include graph data management and mining, social network analysis, graph computation systems, etc.
 
 # Publications
 
