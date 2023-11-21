@@ -4,7 +4,7 @@ layout: default
  
 # About Me
 
-I'm a postdoc at the School of Computer Science and Technology, Beijing Institute of Technology. 
+I'm a postdoc at the School of Computer Science and Technology, Beijing Institute of Technology (BIT). I received my PhD from BIT in 2023 under the guidance of Prof. [Ronghua Li](https://ronghuali.github.io). 
 
 My research interests include graph data management and mining, social network analysis, graph computation systems, etc.
 
