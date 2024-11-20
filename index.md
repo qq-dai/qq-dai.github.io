@@ -31,7 +31,8 @@ My research interests include graph data management and mining, social network a
 15. Rong-Hua Li, **Qiangqiang Dai**, Lu Qin, Guoren Wang, Xiaokui Xiao, Jeffrey Xu Yu, Shaojie Qiao. "Efficient Signed Clique Search in Signed Networks". In IEEE International Conference on Data Engineering (ICDE), 2018: 245-256.
 16. Rong-Hua Li, Jiao Su, Lu Qin, Jeffrey Xu Yu, **Qiangqiang Dai**. "Persistent Community Search in Temporal Networks". In IEEE International Conference on Data Engineering (ICDE), 2018: 797-808.
  
- 
+## Pages 
+* [Projects]({% link projects.md %})
 
 <!--
 
