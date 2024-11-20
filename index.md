@@ -9,7 +9,11 @@ I'm a postdoc at the School of Computer Science and Technology, Beijing Institut
 My research interests include graph data management and mining, social network analysis, graph computation systems, etc.
 
 # Publications
-
+1. **Qiangqiang Dai**, Ronghua Li, Donghang Cui, Guoren Wang. "Theoretically and Practically Efficient Maximum Defective Clique Search". Proceedings of the ACM on Management of Data (SIGMOD), 2(4): 206:1-206:27, 2024.
+2. **Qiangqiang Dai**, Rong-Hua Li, Donghang Cui, Meihao Liao, Yu-Xuan Qiu, Guoren Wang. "Efficient Maximal Biplex Enumerations with Improved Worst-Case Time Guarantee". Proceedings of the ACM on Management of Data (SIGMOD), 2(3): 135:1-135:26, 2024.
+3. Meihao Liao, Junjie Zhou, Rong-Hua Li, **Qiangqiang Dai**, Hongyang Chen, Guoren Wang. "Efficient and Provable Effective Resistance Computation on Large Graphs: An Index-based Approach". Proceedings of the ACM on Management of Data (SIGMOD), 2(3): 133:1-133:26, 2024.
+4. Xiaowei Ye, Rong-Hua Li, **Qiangqiang Dai**, Hongzhi Chen, Guoren Wang. "Efficient k-Clique Counting on Large Graphs: The Power of Color-Based Sampling Approaches". IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(4): 1518-1536, 2024.
+5. Jiaqi Jiang, Qi Zhang, Rong-Hua Li, **Qiangqiang Dai**, Guoren Wang. "I/O Efficient Max-Truss Computation in Large Static and Dynamic Graphs". In IEEE International Conference on Data Engineering (ICDE), 2024: 3217-3229
 1. **Qiangqiang Dai**, Rong-Hua Li, Meihao Liao, Guoren Wang. "Maximal Defective Clique Enumeration". In International Conference on Management of Data (SIGMOD), 2023.
 2. **Qiangqiang Dai**, Rong-Hua Li, Meihao Liao, Guoren Wang. "Hereditary Cohesive Subgraphs Enumeration on Bipartite Graphs: The Power of Pivot-based Approaches". In International Conference on Management of Data (SIGMOD), 2023.
 3. Meihao Liao, Rong-Hua Li, **Qiangqiang Dai**, Hongyang Chen, Hongchao Qin, Guoren Wang. "Efficient Resistance Distance Computation: the Power of Landmark-based Approaches". In International Conference on Management of Data (SIGMOD), 2023.
