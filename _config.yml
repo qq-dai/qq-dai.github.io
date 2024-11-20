@@ -44,5 +44,5 @@ sidebar:
 # - name: LinkedIn
 #  icon: <i class="fa-brands fa-linkedin"></i>
 #  link: https://www.linkedin.com/in/olivier-roques/
-#- name: DBLP
-#  link: https://dblp.uni-trier.de/pid/206/6265.html
+- name: DBLP
+  link: https://dblp.uni-trier.de/pid/206/6265.html
