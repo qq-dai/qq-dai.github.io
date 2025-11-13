@@ -7,8 +7,7 @@ I am currently an Assistant Professor in the School of Computer Science and Tech
 
 My research interests include graph data management and mining, social network analysis, graph computation systems, etc.
 
-**I welcome applications from motivated students and typically have openings for one PhD student and 2-3 Master's students annually. If you are interested in joining our research group, please feel free to reach out to me.
-**
+**I welcome applications from motivated students and typically have openings for one PhD student and 2-3 Master's students annually. If you are interested in joining our research group, please feel free to reach out to me.**
 
 # Publications
 1. **Qiangqiang Dai**, Rong-Hua Li, Lianpeng Qiao, Donghang Cui, and GuorenWang. "Theoretically and Practically Efficient Maximum Biclique Search". Proceedings of the ACM on Management of Data (SIGMOD), 3(6): 368:1-368:26, (December 2025).
@@ -42,5 +41,6 @@ My research interests include graph data management and mining, social network a
 * [Lecture Notes]({% link lecture-notes.md %})
 
 -->
+
 
 
