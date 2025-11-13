@@ -3,12 +3,12 @@ layout: default
 ---
  
 # About Me
-
-I'm a postdoc at the School of Computer Science and Technology, Beijing Institute of Technology (BIT). I received my PhD from BIT in 2023 under the guidance of Prof. [Ronghua Li](https://ronghuali.github.io). 
+I am currently an Assistant Professor in the School of Computer Science and Technology at Beijing Institute of Technology. I completed my postdoctoral research in Beijing Institute of Technology in September 2025, under the supervision of Professor Wang Guoren. I had previously received my Ph.D. from the same institution in 2023, working under the guidance of Professor [Ronghua Li](https://ronghuali.github.io). 
 
 My research interests include graph data management and mining, social network analysis, graph computation systems, etc.
 
 # Publications
+1. **Qiangqiang Dai**, Rong-Hua Li, Lianpeng Qiao, Donghang Cui, and GuorenWang. "Theoretically and Practically Efficient Maximum Biclique Search". Proceedings of the ACM on Management of Data (SIGMOD), 3(6): 368:1-368:26, (December 2025).
 1. **Qiangqiang Dai**, Ronghua Li, Donghang Cui, Guoren Wang. "Theoretically and Practically Efficient Maximum Defective Clique Search". Proceedings of the ACM on Management of Data (SIGMOD), 2(4): 206:1-206:27, 2024.
 2. **Qiangqiang Dai**, Rong-Hua Li, Donghang Cui, Meihao Liao, Yu-Xuan Qiu, Guoren Wang. "Efficient Maximal Biplex Enumerations with Improved Worst-Case Time Guarantee". Proceedings of the ACM on Management of Data (SIGMOD), 2(3): 135:1-135:26, 2024.
 3. Meihao Liao, Junjie Zhou, Rong-Hua Li, **Qiangqiang Dai**, Hongyang Chen, Guoren Wang. "Efficient and Provable Effective Resistance Computation on Large Graphs: An Index-based Approach". Proceedings of the ACM on Management of Data (SIGMOD), 2(3): 133:1-133:26, 2024.
@@ -39,3 +39,4 @@ My research interests include graph data management and mining, social network a
 * [Lecture Notes]({% link lecture-notes.md %})
 
 -->
+
